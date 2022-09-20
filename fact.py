@@ -1,5 +1,5 @@
 #factorial program
-N=int(input())
+N=5
 
 facto=1
 
